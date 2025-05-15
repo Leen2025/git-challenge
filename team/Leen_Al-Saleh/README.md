@@ -13,21 +13,21 @@
 </div>
 
 
-
+---
 _💻 Favorite Language :_
    <img src="./lele.gif" alt="Favorite Language" width="120" style="vertical-align: middle; margin-left: 8px;"/>
 -  Python and JavaScript — because they open wide horizons in app.
-
+---
 
 _🎯 Goal:_
 <img src="./goal.gif" alt="Goal" width="120" style="vertical-align: middle; margin-left: 8px;"/>
 
 -  To create solutions that simplify the complex and help people accomplish tasks in the easiest and most effective way.
-
+---
 _🌸 Fun Fact:_
  <img src="./funnyfact.gif" alt="Fun Fact" width="120" style="vertical-align: middle; margin-left: 8px;"/>
 -  I always enjoy transforming complex concepts into simple, organized ideas, skillfully simplifying and managing them, while blending artistic and creative touches to craft unique and inspiring experiences.
-
+---
 ## 💡 Quote
 > <p align="center">
   <img src="./Leen.gif" alt="Leen" width="300"/>
