@@ -32,3 +32,9 @@ _🌸 Fun Fact:_
 > <p align="center">
   <img src="./Leen.gif" alt="Leen" width="300"/>
 </p>
+
+## 🧠 Challenge 2 – Data Visualization Project
+In this challenge, I explored data visualization using Python libraries like Matplotlib and Seaborn.  
+Here's an example output:
+
+![Data Chart](./chart-example.gif)
